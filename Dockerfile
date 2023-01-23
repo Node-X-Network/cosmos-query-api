@@ -1,4 +1,5 @@
-FROM node:boron
+FROM node:alpine
+
 
 RUN mkdir -p /usr/src/app
 
