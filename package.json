@@ -1,0 +1,15 @@
+{
+  "name": "cosmos-query-api",
+  "version": "1.0.0",
+  "description": "cosmos-query",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "aowmara @Node X",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.2"
+  }
+}
